@@ -14,6 +14,7 @@
 - Uses a file-naming structure for ideas (`(i){filename}.md`) for grouping in file-explorer UIs and searchability
 - View `(i)example.md` to see the initial file created from the `idea-template` archetype
 - Easily create new templates and shell commands based on the existing (for other types of ideas, e.g. a top-based "thinking" file)
+- Remember to make each `bin/*` file executable (e.g. `chmod 0755 bin/newIdea.sh`)
 
 ## Tips / Considerations
 
