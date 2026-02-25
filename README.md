@@ -1,6 +1,6 @@
 # Idea Repo Template
 
-> A simple approach to creating and managing product ideas (locally, via Markdown).
+> A simple approach to capturing and managing product ideas (locally, via Markdown).
 
 **Create a new note via the cli with `bin/newIdea.sh`**
 
